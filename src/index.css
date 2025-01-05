@@ -67,7 +67,7 @@ button{
     font-size: 20px;
     font-weight: 500;
     width:100%;
-    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../public/Assests/QtripHomebg.jpg)no-repeat center/cover;
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/2422461/pexels-ph…eg?cs=srgb&dl=pexels-josh-hild-2422461.jpg&fm=jpg)no-repeat center/cover ;
     /* align-content: center; */
     display: flex;
     justify-content: center;
